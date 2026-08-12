@@ -18,7 +18,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
+    # Required for the action to be able to push back to the repository
+    permissions:
+      contents: write
+      
     steps:
+      # Checkout the repository first
+      - uses: actions/checkout@v3
+
       # Generates a snake game from a github user contributions graph, output a svg animation
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
