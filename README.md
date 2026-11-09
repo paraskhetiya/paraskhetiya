@@ -86,7 +86,7 @@
 
 <p>
   <a href="https://codeforces.com/profile/ParasKhetiya">
-    <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-Pupil-008000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <img src="https://img.shields.io/badge/350%2B-Problems%20Solved-111111?style=for-the-badge" alt="Codeforces Problems Solved" />
   <img src="https://img.shields.io/badge/CodeChef-3%20Star-3366CB?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
