@@ -48,9 +48,10 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-### Web & Backend
+### Web, Mobile & Backend
 
 <p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -87,9 +88,9 @@
   <a href="https://codeforces.com/profile/ParasKhetiya">
     <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <img src="https://img.shields.io/badge/260%2B-Problems%20Solved-111111?style=for-the-badge" alt="Codeforces Problems Solved" />
-  <img src="https://img.shields.io/badge/CodeChef-2%20Star-8B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  <img src="https://img.shields.io/badge/370%2B-Problems%20Solved-111111?style=for-the-badge" alt="CodeChef Problems Solved" />
+  <img src="https://img.shields.io/badge/350%2B-Problems%20Solved-111111?style=for-the-badge" alt="Codeforces Problems Solved" />
+  <img src="https://img.shields.io/badge/CodeChef-3%20Star-3366CB?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  <img src="https://img.shields.io/badge/400%2B-Problems%20Solved-111111?style=for-the-badge" alt="CodeChef Problems Solved" />
 </p>
 
 ---
